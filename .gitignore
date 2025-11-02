@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.build/
+.pytest_cache/
+htmlcov/
+.coverage*
+.cache/
+
+# Virtual environments
+.venv/
+venv/
+.env
+.env*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Data caches (keep CSVs tracked unless huge)
+*.tmp
+*.temp
