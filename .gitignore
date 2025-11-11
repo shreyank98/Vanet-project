@@ -37,3 +37,14 @@ logs/
 # Data caches (keep CSVs tracked unless huge)
 *.tmp
 *.temp
+
+# VANET IDS specific
+saved_models/
+results/
+data/raw/CICIDS2017/
+data/processed/
+data/synthetic/
+*.h5
+*.npy
+*.pkl
+*.csv.gz
